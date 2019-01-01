@@ -24,7 +24,7 @@ The goals / steps of this project are the following:
 * Warp the detected lane boundaries back onto the original image.
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
-The images for camera calibration are stored in the folder called `camera_cal`.  The images in `test_images` are for testing the pipeline on single frames. The pipeline is finally tested on this [project_video](./project_video.mp4).
+The images for camera calibration are stored in the folder called `camera_cal`.  The images in `test_images` are for testing the pipeline on single frames. The pipeline is finally tested on this [project_video](./project_video.mp4) to generate this [project_video_with_lanefill](./output_images/project_video_lanefill.mp4).
 
 Sample Visual
 ---
